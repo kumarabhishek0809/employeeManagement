@@ -16,7 +16,7 @@ response:
 ### Get a book by id (isbn)
 GET http://localhost:6060/api/books/isbn1001
 response:
-{ "author":"Tamas Lang","title":"Spring app architecture","isbn":null }
+{ "author":"Tamas Lang","title":"Spring app architecture book","isbn":null } 
 
 ### Get all books
 GET http://localhost:6060/api/books
